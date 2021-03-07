@@ -23,12 +23,16 @@ Use at own caution
 
 FAQ:
 1) Q. The macro won't do anything
+
    A. Check if the macro is running. Make sure you run as Admin
    
 2) Q. Keqing doesn't activate Thunderclap
+
    A. Increase Charged Atk Time by 10 until it works
  
 3) Q. Keqing doesn't slash after dash
+
    A. Decrease Charged Atk Time by 5 until it works
+   
    
 If you have any other question/concerns, please create an issue or email us
