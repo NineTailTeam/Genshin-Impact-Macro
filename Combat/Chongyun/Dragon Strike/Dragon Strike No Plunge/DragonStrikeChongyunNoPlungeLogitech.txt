@@ -78,28 +78,6 @@
                     "hidUsage": 44
                   }
                 },
-                {
-                  "delay": {
-                    "durationMs": 83
-                  }
-                },
-                {
-                  "mouse": {
-                    "button": {
-                      "hidUsage": 1,
-                      "isDown": true
-                    }
-                  }
-                },
-                {
-                  "mouse": {
-                    "button": {
-                      "hidUsage": 1
-                    }
-                  }
-                }
-              ]
-            },
             "toggleSequence": {},
             "useSimpleActions": true
           },
