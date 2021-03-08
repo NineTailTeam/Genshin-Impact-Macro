@@ -9,8 +9,6 @@ For Logitech Mice: Open setting.json in "C:\Users(Username)\AppData\Local\LGHUB\
 
 For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~. Swing Time should be as low as possible, but still be large enough for the macro to consistantly climb.
 
-For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~. Swing Time should be as low as possible, but still be large enough for the macro to consistantly climb.
-
 FAQ:
 
     Q: Beidou doesn't climb the enemy.
