@@ -17,7 +17,8 @@ For Logitech Mice: Open setting.json in "C:\Users(Username)\AppData\Local\LGHUB\
 FAQ:
 
     Q: Beidou doesn't climb the enemy.
-    A: If you don't see a damage number pop up on screen, increase the second delay on the macro editor. If you see a number pop up, increase the second delay
+    A: If you don't see a damage number pop up on screen, increase the second delay on the macro editor. 
+        If you see a number pop up, increase the second delay
   
     Q: I don't want Beidou to immediately plunge attack
     A: Use the No Plunge version of the macro
