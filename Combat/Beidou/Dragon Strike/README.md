@@ -12,8 +12,6 @@ For Logitech Mice: Open setting.json in "C:\Users(Username)\AppData\Local\LGHUB\
 
 
 
-
-
 FAQ:
 
     Q: Beidou doesn't climb the enemy.
