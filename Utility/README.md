@@ -1,5 +1,5 @@
-# Genshin-Impact-SprintJump
-Use for easy sprint jumps
+# Genshin-Impact-Utility
+Easy utility to aid in everyday exploration
 
-Use at own caution
+Caution: Using macros may result in a ban.
 
