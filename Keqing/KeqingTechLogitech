@@ -1,0 +1,88 @@
+ {
+        "applicationId": "22b58723-d6b9-4a5b-ad55-39bcd9ade869",
+        "attribute": "MACRO_PLAYBACK",
+        "id": "32b3ddba-ff7f-48c2-8c2a-07001fbc50f2",
+        "macro": {
+          "sequence": {
+            "defaultDelay": 50,
+            "heldSequence": {
+              "components": [
+                {
+                  "keyboard": {
+                    "displayName": "E",
+                    "hidUsage": 8,
+                    "isDown": true
+                  }
+                }
+              ]
+            },
+            "pressSequence": {},
+            "releaseSequence": {
+              "components": [
+                {
+                  "keyboard": {
+                    "displayName": "E",
+                    "hidUsage": 8
+                  }
+                },
+                {
+                  "delay": {
+                    "durationMs": 720
+                  }
+                },
+                {
+                  "mouse": {
+                    "button": {
+                      "hidUsage": 1,
+                      "isDown": true
+                    }
+                  }
+                },
+                {
+                  "delay": {
+                    "durationMs": 616
+                  }
+                },
+                {
+                  "mouse": {
+                    "button": {
+                      "hidUsage": 1
+                    }
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "Shift",
+                    "hidUsage": 225,
+                    "isDown": true
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "E",
+                    "hidUsage": 8,
+                    "isDown": true
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "Shift",
+                    "hidUsage": 225
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "E",
+                    "hidUsage": 8
+                  }
+                }
+              ]
+            },
+            "showUpDown": true,
+            "simpleSequence": {},
+            "toggleSequence": {}
+          },
+          "type": "SEQUENCE"
+        },
+        "name": "Keqing Macro"
+      },
