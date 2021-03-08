@@ -15,9 +15,9 @@ FAQ:
    
    
    A: 
+   
       Logitech: If you don't see a damage number pop up on screen, increase the second delay on the macro editor. 
              If you see a number pop up, decrease the second delay
-    
       AHK: If you don't see a damage number pop up on screen, increase the Swing Time.
          If you see a number pop up, decrease Swing Time
 
