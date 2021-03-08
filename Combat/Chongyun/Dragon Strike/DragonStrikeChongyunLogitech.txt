@@ -1,0 +1,109 @@
+ {
+        "applicationId": "22b58723-d6b9-4a5b-ad55-39bcd9ade869",
+        "attribute": "MACRO_PLAYBACK",
+        "id": "2b76af54-a648-472a-bc39-f254d754f247",
+        "macro": {
+          "onboardable": true,
+          "sequence": {
+            "defaultDelay": 50,
+            "heldSequence": {},
+            "pressSequence": {},
+            "releaseSequence": {},
+            "showUpDown": true,
+            "simpleSequence": {
+              "components": [
+                {
+                  "mouse": {
+                    "button": {
+                      "hidUsage": 1,
+                      "isDown": true
+                    }
+                  }
+                },
+                {
+                  "delay": {
+                    "durationMs": 10
+                  }
+                },
+                {
+                  "mouse": {
+                    "button": {
+                      "hidUsage": 1
+                    }
+                  }
+                },
+                {
+                  "delay": {
+                    "durationMs": 362
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "Shift",
+                    "hidUsage": 225,
+                    "isDown": true
+                  }
+                },
+                {
+                  "delay": {
+                    "durationMs": 1
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "Space",
+                    "hidUsage": 44,
+                    "isDown": true
+                  }
+                },
+                {
+                  "delay": {
+                    "durationMs": 1
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "Shift",
+                    "hidUsage": 225
+                  }
+                },
+                {
+                  "delay": {
+                    "durationMs": 1
+                  }
+                },
+                {
+                  "keyboard": {
+                    "displayName": "Space",
+                    "hidUsage": 44
+                  }
+                },
+                {
+                  "delay": {
+                    "durationMs": 83
+                  }
+                },
+                {
+                  "mouse": {
+                    "button": {
+                      "hidUsage": 1,
+                      "isDown": true
+                    }
+                  }
+                },
+                {
+                  "mouse": {
+                    "button": {
+                      "hidUsage": 1
+                    }
+                  }
+                }
+              ]
+            },
+            "toggleSequence": {},
+            "useSimpleActions": true
+          },
+          "type": "SEQUENCE"
+        },
+        "name": "Dragon Strike Chongyun"
+      },
