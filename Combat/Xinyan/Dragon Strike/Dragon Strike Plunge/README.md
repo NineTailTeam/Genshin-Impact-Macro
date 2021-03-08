@@ -1,5 +1,5 @@
-# Genshin-Impact-Dragon-Strike
-Dragon Strike Attack for Xinyan
+# Genshin-Impact-Dragon-Strike-Xinyan
+Dragon Strike Attack for Xinyan.
 
 Caution: Macro use may result in a ban.
 
