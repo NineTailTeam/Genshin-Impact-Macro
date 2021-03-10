@@ -5,7 +5,7 @@ Caution: Macro use may result in a ban.
 
 This macro only targets Ganyu, other characters may not work.
 
-Test video: 
+Test video: https://youtu.be/dYi8vcZ-4ZM
 
 For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~.
 
