@@ -1,9 +1,9 @@
-# Genshin-Impact-AARR-Fischl
-AARR Sequence for Fischl
+# Genshin-Impact-AARR-Amber
+AARR Sequence for Amber
 
 Caution: Macro use may result in a ban.
 
-This macro only targets Fischl, other characters may not work.
+This macro only targets Amber, other characters may not work.
 
 Test video: https://youtu.be/ccBZu4cv7rw
 
@@ -13,24 +13,24 @@ Hold W while using macro.
 
 FAQ:
 
-    Q: Fischl doesn't do what she's supposed to do/The macro doesn't work
+    Q: Amber doesn't do what she's supposed to do/The macro doesn't work
     A: Make sure to hold W while using macro
         Logitech: Make sure you created the macro in the correct Profile
         
         AHK: Make sure you are running as ADMINISTRATOR and the AHK icon is H
 	
 
-    Q: Fischl doesn't do the second attack
+    Q: Amber doesn't do the second attack
     A: Logitech: Increase the second delay
         
         AHK: Increase First Attack Reset
 		
-    Q: Fischl doesn't do the RR sequence after second attack/Fischl goes into Aimed-Shot mode but doesn't exit
+    Q: Amber doesn't do the RR sequence after second attack/Amber goes into Aimed-Shot mode but doesn't exit
     A: Logitech: Increase the fourth delay
         
         AHK: Increase Second Attack Reset
 		
-	Q: Fischl isn't a machine gun
+	Q: Amber isn't a machine gun
 	A: Logitech: Decrease the second and fourth delay.
         
        	 AHK: Decrease First and Second Attack Reset
