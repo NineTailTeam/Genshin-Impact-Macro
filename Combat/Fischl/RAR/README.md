@@ -1,9 +1,11 @@
-# Genshin-Impact-ARR-Fischl
+# Genshin-Impact-RAR-Fischl
 RAR Sequence for Fischl
 
 Caution: Macro use may result in a ban.
 
 This macro only targets Fischl, other characters may not work.
+
+Test video: https://youtu.be/axeKNOmxPDk
 
 For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~.
 
