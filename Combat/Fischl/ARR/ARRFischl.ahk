@@ -9,11 +9,6 @@ if (WinActive("ahk_class UnityWndClass")) {
 		Sleep 50
 		Click up
 		;First Attack Reset
-		Sleep 245
-		Click down
-		Sleep 50
-		Click up
-		;Second Attack Reset
 		Sleep 178
 		Send {R down}
 		Sleep 50
