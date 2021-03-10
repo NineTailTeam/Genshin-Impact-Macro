@@ -1,6 +1,6 @@
 #Keqing Attack Macro for Thunderclap and Slash Damage
 
-Keqing Double E macro
+Keqing Charged-E macro
 Caution: The use of macros may result in a ban.
 
 May not work on all terrain, will not work if affected by Cryo, as atk spd is slower
