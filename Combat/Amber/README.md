@@ -5,11 +5,14 @@ Caution: Macro use may result in a ban.
 
 This macro only targets Amber, other characters may not work.
 
+Test video RAR: https://youtu.be/Xs_Y8NX-tCc
+
 For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~. 
 
 Hold W while using macro.
 
 FAQ:
+	
 	Q: Amber doesn't do what she's supposed to do/The macro doesn't work
     A: Make sure to hold W while using macro
 		Logitech: Make sure you created the macro in the correct Profile
