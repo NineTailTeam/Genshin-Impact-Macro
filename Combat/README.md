@@ -3,6 +3,8 @@ Macros to use for combat
 
 Macros may not work in some terrain, or if character is affected with cryo
 
+Test videos: https://www.youtube.com/playlist?list=PLOsi4jEYHjW7nRunci8uDxEK-vcUvb-yl
+
 Caution: Using macros may result in a ban.
 
 Installation Guide:
