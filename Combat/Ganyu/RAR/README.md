@@ -1,9 +1,11 @@
-# Genshin-Impact-ARR-Ganyu
+# Genshin-Impact-RAR-Ganyu
 RAR Sequence for Ganyu
 
 Caution: Macro use may result in a ban.
 
 This macro only targets Ganyu, other characters may not work.
+
+Test video: 
 
 For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~.
 
