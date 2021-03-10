@@ -19,4 +19,10 @@ FAQ:
     Q: I don't want Beidou to immediately plunge attack
     A: Use the No Plunge version of the macro
   
+Installation Guide:
+
+    AHK: https://www.youtube.com/watch?v=hf72PyAe-Qk
+  
+    Logitech: https://youtu.be/8tsSQ2Z1JlY  
+  
 If you have any other questions or concerns, please create an issue or email us.
