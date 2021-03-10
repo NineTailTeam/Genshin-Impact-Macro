@@ -5,7 +5,7 @@ Caution: Macro use may result in a ban.
 
 This macro only targets Amber, other characters may not work.
 
-Test video: https://youtu.be/ccBZu4cv7rw
+Test video: https://youtu.be/QDi4UYvbftw
 
 For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~.
 
