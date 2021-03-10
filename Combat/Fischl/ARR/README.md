@@ -5,7 +5,9 @@ Caution: Macro use may result in a ban.
 
 This macro only targets Fischl, other characters may not work.
 
-For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~.
+Test video: https://youtu.be/kAf-q3uMCDc
+
+For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~. 
 
 Hold W while using macro.
 
