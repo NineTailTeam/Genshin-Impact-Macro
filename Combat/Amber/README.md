@@ -7,6 +7,10 @@ This macro only targets Amber, other characters may not work.
 
 Test video RAR: https://youtu.be/Xs_Y8NX-tCc
 
+Test video AARR: https://youtu.be/QDi4UYvbftw
+
+Test video ARR: https://youtu.be/RlEA2YNgWAU
+
 For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~. 
 
 Hold W while using macro.
