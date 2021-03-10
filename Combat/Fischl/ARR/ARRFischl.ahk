@@ -17,7 +17,7 @@ if (WinActive("ahk_class UnityWndClass")) {
 		Send {R down}
 		Sleep 50
 		Send {R up}
-		Sleep 100
+	
 		
 	return
 }
