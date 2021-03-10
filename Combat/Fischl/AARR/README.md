@@ -10,9 +10,10 @@ For AHK script, run as Administrator. Change Hotkey key to any key you would use
 Hold W while using macro.
 
 FAQ:
-	Q: Fischl doesn't do what she's supposed to do/The macro doesn't work
+
+    Q: Fischl doesn't do what she's supposed to do/The macro doesn't work
     A: Make sure to hold W while using macro
-		Logitech: Make sure you created the macro in the correct Profile
+        Logitech: Make sure you created the macro in the correct Profile
         
         AHK: Make sure you are running as ADMINISTRATOR and the AHK icon is H
 	
@@ -28,9 +29,9 @@ FAQ:
         AHK: Increase Second Attack Reset
 		
 	Q: Fischl isn't a machine gun
-	A: A: Logitech: Decrease the first and second delay.
+	A: Logitech: Decrease the first and second delay.
         
-        AHK: Decrease First and Second Attack Reset
+       	 AHK: Decrease First and Second Attack Reset
   
   Installation Guide:
 
