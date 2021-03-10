@@ -5,6 +5,8 @@ Caution: Macro use may result in a ban.
 
 This macro only targets Amber, other characters may not work.
 
+Test video: 
+
 For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~.
 
 Hold W while using macro.
