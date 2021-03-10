@@ -10,7 +10,8 @@ For AHK script, run as Administrator. Change Hotkey key to any key you would use
 Hold W while using macro.
 
 FAQ:
-	Q: Fischl doesn't do what she's supposed to do/The macro doesn't work
+
+    Q: Fischl doesn't do what she's supposed to do/The macro doesn't work
     A: Make sure to hold W while using macro
 		Logitech: Make sure you created the macro in the correct Profile
         
