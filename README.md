@@ -1,7 +1,7 @@
 # Genshin-Impact-Macro
 Macros for Genshin Impact
 
-Index at Wiki
+Index and Tutorial at Wiki
 
 All macros work at 60 FPS, 90 ms Ping
 
