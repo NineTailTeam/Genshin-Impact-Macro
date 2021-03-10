@@ -1,5 +1,5 @@
-# Genshin-Impact-AAR-Machine-Gun-Ganyu
-AAR Machin Gun Sequence for Ganyu
+# Genshin-Impact-ARR-Ganyu
+RAR Sequence for Ganyu
 
 Caution: Macro use may result in a ban.
 
@@ -11,21 +11,23 @@ Hold W while using macro.
 
 FAQ:
 	Q: Ganyu doesn't do what she's supposed to do/The macro doesn't work
-    A: 
+    A: Make sure to hold W while using macro
+		
         AHK: Make sure you are running as ADMINISTRATOR and the AHK icon is H
 	
 
-        
-        AHK: Increase First Attack Reset
-		
-    Q: Ganyu goes into Aimed-Shot mode but doesn't exit
-    A:
+    Q: Ganyu doesn't attack/Ganyu is inconsistent
+    A: 
         AHK: Increase MidReset
 		
 	Q: Ganyu isn't a machine gun
+	A: 
+		AHK: Decrease MidReset
+		
+	Q: Ganyu keeps getting stuck in Aim mode
 	A:
-        AHK: Decrease MidReset
-  
+		AHK: Decrease MidReset
+		
   Installation Guide:
 
     AHK: https://www.youtube.com/watch?v=hf72PyAe-Qk
