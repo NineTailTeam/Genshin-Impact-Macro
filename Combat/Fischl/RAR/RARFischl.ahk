@@ -19,7 +19,6 @@ if (WinActive("ahk_class UnityWndClass")) {
 	return
 }
 DoubleR(){
-	DoubleR(){
 	Send {R down}
 	;RReset
 	Sleep 20
