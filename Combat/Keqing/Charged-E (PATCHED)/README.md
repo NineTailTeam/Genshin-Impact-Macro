@@ -1,4 +1,5 @@
 #Keqing Attack Macro for Thunderclap and Slash Damage
+THIS MACRO NO LONGER WORKS.
 
 Keqing Charged-E macro
 Caution: The use of macros may result in a ban.
