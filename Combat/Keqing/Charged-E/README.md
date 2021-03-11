@@ -18,11 +18,11 @@ FAQ:
 
     Q. Keqing doesn't activate Thunderclap
 
-    A. Increase Charged Atk Time by 10 until it works
+    A. Increase Charged Atk Time until it works
 
     Q. Keqing doesn't slash after dash
 
-    A. Decrease Charged Atk Time by 5 until it works
+    A. Decrease Charged Atk Time until it works
 
 Installation Guide:
 
