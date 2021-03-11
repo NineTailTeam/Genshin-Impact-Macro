@@ -1,4 +1,4 @@
-# Genshin-Impact-ARR-Amber
+# Genshin-Impact-RAR-Amber
 RAR Sequence for Amber
 
 Caution: Macro use may result in a ban.
