@@ -7,6 +7,8 @@ This macro only targets Chongyun, other characters may not work.
 
 Version No Plunge does not come with automatic plunge attacks after step-up.
 
+Test video: https://youtu.be/YCAj0L7x9Vg
+
 For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~. Swing Time should be as low as possible, but still be large enough for the macro to consistantly climb.
 
 For most consistency, activate macro after first strike with auto-attack.
