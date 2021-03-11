@@ -11,7 +11,7 @@ if (WinActive("ahk_class UnityWndClass")) {
 		Sleep 11
 		Click up
 		;Swing Time
-		Sleep 333
+		Sleep 335
 		Send {LShift down}
 		Sleep 20
 		Send {LShift up}
