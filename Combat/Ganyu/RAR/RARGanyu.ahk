@@ -29,4 +29,4 @@ DoubleR(){
 
 
 
-END:: Suspend, Toggle
+Home:: Suspend, Toggle

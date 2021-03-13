@@ -27,4 +27,4 @@ if (WinActive("ahk_class UnityWndClass")) {
 	return
 }
 
-END:: Suspend, Toggle
+Home:: Suspend, Toggle
