@@ -27,7 +27,6 @@ DoubleR(){
 	Sleep 35
 }
 
-}
 
 
 Home:: Suspend, Toggle
