@@ -1,4 +1,4 @@
-#Keqing-Attack-Macro-for-Thunderclap-and-Slash-Damage
+# Keqing Attack Macro for Thunderclap and Slash Damage
 
 THIS MACRO NO LONGER WORKS.
 
