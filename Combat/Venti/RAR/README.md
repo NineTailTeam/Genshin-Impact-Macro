@@ -5,7 +5,7 @@ Caution: Macro use may result in a ban.
 
 This macro only targets Venti, other characters may not work.
 
-Test video: https://youtu.be/dYi8vcZ-4ZM
+Test video: https://youtu.be/61hUn9doO1Y
 
 For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~.
 
