@@ -19,8 +19,8 @@ FAQ:
         AHK: If you don't see a damage number pop up on screen, increase the Swing Time.
         If you see a number pop up, decrease Swing Time
   
-    Q: I don't want Beidou to immediately plunge attack
-    A: Use the No Plunge version of the macro
+    Q: I want Beidou to immediately plunge attack
+    A: Use the Plunge version of the macro
   
   Installation Guide:
 
