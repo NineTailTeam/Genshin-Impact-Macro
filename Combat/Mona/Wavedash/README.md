@@ -9,7 +9,7 @@ https://github.com/NineTailTeam/Genshin-Impact-Macro/tree/main/Utility/Auto%20Cl
 
 This tech needs a wind current in order to function.
 
-Test video:
+Test video: https://youtu.be/wredwXuXILc
 
 For AHK, run as Administrator. Change Hotkey key to any key you would use. Default: N
 
