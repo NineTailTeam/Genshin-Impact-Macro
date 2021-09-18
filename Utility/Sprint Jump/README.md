@@ -3,7 +3,7 @@ Sprint Jump for Characters Without Alt-Sprints
 
 Caution: Macro use may result in a ban.
 
-This macro only targets characters Without an alt-sprint (eg. Mona)
+This macro only targets characters Without an alt-sprint (eg. Not Mona)
 
 For AHK script, run as Administrator.
 Insert to activate script.
