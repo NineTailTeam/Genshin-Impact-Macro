@@ -9,6 +9,8 @@ Test video:
 
 For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~.
 
+This macro is slower than others and require recoil control (pull hard down the entire time)
+
 Hold W while using macro.
 
 FAQ:
