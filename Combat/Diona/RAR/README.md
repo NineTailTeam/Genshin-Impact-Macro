@@ -5,7 +5,7 @@ Caution: Macro use may result in a ban.
 
 This macro only targets Diona, other characters may not work.
 
-Test video: 
+Test video: https://youtu.be/FKM9MajgiSE
 
 For AHK script, run as Administrator. Change Hotkey key to any key you would use. Default: `/~.
 
