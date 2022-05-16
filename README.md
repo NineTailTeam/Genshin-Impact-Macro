@@ -1,14 +1,34 @@
-# Genshin-Impact-Macro
+## Genshin-Impact-Macro-generic-mouse
 Macros for Genshin Impact
+- The file must be run as administrator.
+- All macros work at 60 FPS, 100 ms Ping.
+- :skull: Caution: Use of macros may result in a ban.
+## Enable or disable autohotkey scripts
+by default in the scripts(Utility-generic-mouse) there is the delete button.
+```
+Delete:: Suspend, Toggle
+```
+### Names of the keys in autohotkey
+```
+    LButton       RButton
+          ________
+         / 0 \/ 0 \ 
+XButton2 0        |
+XButton1 0        |
+         |        |
+         \________/
+             |
+             |
+```
+For more keys visit https://www.autohotkey.com/docs/KeyList.htm
 
-Index and Tutorial at Wiki
 
-All macros work at 60 FPS, 90 ms Ping
+## Installation Guide for Utility and Combat:
 
-Caution: Use of macros may result in a ban.
+AHK: https://www.youtube.com/watch?v=hf72PyAe-Qk
 
-Installation Guide:
-
+```
     AHK: https://www.youtube.com/watch?v=hf72PyAe-Qk
   
     Logitech: https://youtu.be/RzQT_9HV6Qo
+```
