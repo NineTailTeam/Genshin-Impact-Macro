@@ -1,21 +1,20 @@
-﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
-; #Warn  ; Enable warnings to assist with detecting common errors.
-SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
-SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+#NoEnv
+SendMode Input
 
-if (WinActive("ahk_class UnityWndClass")){
+; Activate the script only if the active window is "ahk_class UnityWndClass"
+#IfWinActive ahk_class UnityWndClass
 
-;Charged_attack  (^.^)
+; Charge an attack by pressing the XButton1 key three times
 XButton1::
-loop, 3 
-	{
-	Click down
-	Sleep 1000
-	Click up
-	Sleep 50
+	loop, 3 {
+		Click down
+		Sleep 1000
+		Click up
+		Sleep 50
 	}
 return
 
-}
-
-Delete:: Suspend, Toggle
+; Pause and resume the script by pressing the "Delete" key
+Delete:: 
+	Suspend, Toggle
+return
